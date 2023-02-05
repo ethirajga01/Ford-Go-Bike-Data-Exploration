@@ -21,6 +21,6 @@ Multivariate exploration:  There was a drastic change with the user_type composi
 
 ## Key Insights for Presentation
 
- [link for presentation](https://drive.google.com/file/d/1DnqhTPdjp-6umI7Jr5f1X5aOfQM6q5rI/view?usp=sharing)
+ [Ford Go Bike](https://drive.google.com/file/d/1DnqhTPdjp-6umI7Jr5f1X5aOfQM6q5rI/view?usp=sharing)
 
 I explain my initial findings based on the visual inspection and analysis of the dataset. I then present my findings on user segmentaion, distribution of age and gender. The Top 10 station where a ride originates is depicted which forms the base for further analysis which is supported by the use of bar chart and heatmap.
